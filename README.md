@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+i'm Ram a second year student in vitap university 
+i'm currently upskilling myself in web devlopment and dsa
 <!--
 **Ram69-bot/Ram69-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
